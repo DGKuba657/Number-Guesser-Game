@@ -12,3 +12,4 @@ C:\Users\Jakub.funk\RiderProjects\Number Guesser\Number Guesser\obj\Debug\net8.0
 C:\Users\Jakub.funk\RiderProjects\Number Guesser\Number Guesser\obj\Debug\net8.0\Number Guesser.pdb
 C:\Users\Jakub.funk\RiderProjects\Number Guesser\Number Guesser\obj\Debug\net8.0\Number Guesser.genruntimeconfig.cache
 C:\Users\Jakub.funk\RiderProjects\Number Guesser\Number Guesser\obj\Debug\net8.0\ref\Number Guesser.dll
+C:\Users\Jakub.funk\RiderProjects\Number Guesser\Number Guesser\obj\Debug\net8.0\Number Guesser.sourcelink.json
